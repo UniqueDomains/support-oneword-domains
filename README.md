@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SUPPORT one-word domains still available to buy.
 
-This dataset contains 4,029 .SUPPORT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,027 .SUPPORT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SUPPORT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=support-oneword-domains&utm_content=description.top) (4,037) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.SUPPORT one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.support        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.support        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.support  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.support      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.support  | available | 58       | 7%     | 9      |           |         |         |
