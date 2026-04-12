@@ -1,22 +1,22 @@
-# Available .SUPPORT One-Word Domains (5,622,035)
+# Available .SUPPORT One-Word Domains (8,087)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C085%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C035%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C094%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C087%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .support one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .support one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,085-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,035 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,085 rows · **Live catalog:** 5,622,035 domains
+**Public extract:** 8,094 rows · **Live catalog:** 8,087 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/support`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SUPPORT one-word doma
 
 ### Files
 
-- `support.csv` — public CSV extract (8,085 rows)
-- `support.json` — public JSON extract (8,085 rows)
+- `support.csv` — public CSV extract (8,094 rows)
+- `support.json` — public JSON extract (8,094 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| marvel.support   | available | $11.99    | —             | 72             | 35     | 6      | name.com         |
+| yard.support     | available | $11.99    | $35.99        | 80             | 35     | 4      | name.com         |
 | setup.support    | resell    | $11.99    | —             | 76             | 30     | 6      | Spaceship, Inc.  |
 | business.support | premium   | $500      | —             | 90             | 53     | 8      | name.com         |
-| eleven.support   | available | $11.99    | $35.99        | 88             | 34     | 6      | name.com         |
-| silver.support   | resell    | —         | —             | 56             | 99     | 6      | Dynadot Inc      |
-| gold.support     | premium   | $520      | $520          | 72             | 49     | 4      | namecheap        |
-| yard.support     | available | $11.99    | $35.99        | 80             | 34     | 4      | name.com         |
+| marvel.support   | available | $11.99    | —             | 72             | 35     | 6      | name.com         |
 | news.support     | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 9 |
-| trade.support    | premium   | $520      | $520          | 116            | 46     | 5      | namecheap        |
-| jump.support     | available | $11.99    | $35.99        | 72             | 33     | 4      | name.com         |
+| gold.support     | premium   | $520      | $520          | 72             | 48     | 4      | namecheap        |
+| eleven.support   | available | $11.99    | $35.99        | 88             | 33     | 6      | name.com         |
 | domain.support   | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC     |
-| poker.support    | premium   | $41.25    | —             | 82             | 45     | 5      | name.com         |
+| trade.support    | premium   | $520      | $520          | 116            | 46     | 5      | namecheap        |
 | pack.support     | available | $11.99    | $35.99        | 100            | 32     | 4      | name.com         |
 | context.support  | resell    | —         | —             | 108            | 59     | 7      | Dynadot Inc      |
-| pop.support      | premium   | $123.75   | $123.75       | 82             | 43     | 3      | name.com         |
-| ethereal.support | available | $11.99    | $35.99        | 88             | 32     | 8      | name.com         |
-| dot.support      | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
-| instant.support  | premium   | $500      | $500          | 108            | 37     | 7      | name.com         |
+| poker.support    | premium   | $41.25    | —             | 82             | 45     | 5      | name.com         |
 | mentor.support   | available | $11.99    | —             | 74             | 32     | 6      | name.com         |
+| dot.support      | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
+| pop.support      | premium   | $123.75   | $123.75       | 82             | 43     | 3      | name.com         |
+| jump.support     | available | $11.99    | $35.99        | 72             | 32     | 4      | name.com         |
 | search.support   | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
+| instant.support  | premium   | $500      | $500          | 108            | 37     | 7      | name.com         |
+| bread.support    | available | $37.98    | —             | 102            | 31     | 5      | namecheap        |
+| data.support     | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,085-row public sample | 5,622,035 live domains                           |
+| 8,094-row public sample | 8,087 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
