@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .support one-word domains from Uni
 
 **Public extract:** 8,094 rows · **Live catalog:** 8,087 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/support`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | eleven.support   | available | $11.99    | $35.99        | 88             | 33     | 6      | name.com         |
 | domain.support   | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC     |
 | trade.support    | premium   | $520      | $520          | 116            | 46     | 5      | namecheap        |
-| pack.support     | available | $11.99    | $35.99        | 100            | 32     | 4      | name.com         |
+| mentor.support   | available | $11.99    | —             | 74             | 32     | 6      | name.com         |
 | context.support  | resell    | —         | —             | 108            | 59     | 7      | Dynadot Inc      |
 | poker.support    | premium   | $41.25    | —             | 82             | 45     | 5      | name.com         |
-| mentor.support   | available | $11.99    | —             | 74             | 32     | 6      | name.com         |
+| jump.support     | available | $11.99    | $35.99        | 72             | 32     | 4      | name.com         |
 | dot.support      | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
 | pop.support      | premium   | $123.75   | $123.75       | 82             | 43     | 3      | name.com         |
-| jump.support     | available | $11.99    | $35.99        | 72             | 32     | 4      | name.com         |
+| bread.support    | available | $37.98    | —             | 102            | 31     | 5      | namecheap        |
 | search.support   | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
 | instant.support  | premium   | $500      | $500          | 108            | 37     | 7      | name.com         |
-| bread.support    | available | $37.98    | —             | 102            | 31     | 5      | namecheap        |
+| element.support  | available | $11.99    | $35.99        | 96             | 31     | 7      | name.com         |
 | data.support     | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
