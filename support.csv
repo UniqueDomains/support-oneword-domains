@@ -216,7 +216,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 128f15ea-74ee-4607-8adb-c4121a44c980,performed.support,available,11.99,,58,3,9,name.com,,
 12a23ae7-f8fa-498c-a8bf-29b939c97fc3,cents.support,available,11.99,,56,9,5,name.com,,
 12b91d6c-814f-4ec8-8abb-36ea7e1c52e1,lactosefree.support,available,11.99,,74,3,12,name.com,,
-12c804a2-7ef3-4a1d-aeaf-d02bdf783396,letter.support,resell,,,76,22,6,"Spaceship, Inc.",20/02/2026 22:04,20/02/2027 22:04
+12c804a2-7ef3-4a1d-aeaf-d02bdf783396,letter.support,resell,,,76,21,6,"Spaceship, Inc.",20/02/2026 22:04,20/02/2027 22:04
 12e08d87-3ab5-4d03-88cb-594c1fdeac3a,visitors.support,available,11.99,,62,10,8,name.com,,
 12e3db65-e16d-4a83-a0b7-aca51f0654ab,tablets.support,available,11.99,,68,11,7,name.com,,
 13059bfd-52b0-4df2-912b-c2ccb7ae4dd8,pardonme.support,available,11.99,,62,4,9,name.com,,
