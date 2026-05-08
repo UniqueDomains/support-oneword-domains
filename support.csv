@@ -522,7 +522,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2c0f81f9-fe17-4362-840e-a6cd5bb3a029,slipin.support,available,11.99,,65,2,7,name.com,,
 2c18eb6a-3ff9-4f66-9b2e-974a6ca5bbbe,typed.support,available,11.99,,70,11,5,name.com,,
 2c280e4c-0f74-4d64-8b3b-e7e79f61cba6,sparkles.support,available,11.99,,62,15,8,name.com,,
-2c300449-7003-4369-9df6-77dbc92bfd9f,message.support,resell,,,82,31,7,"Spaceship, Inc.",19/02/2026 17:09,19/02/2027 17:09
+2c300449-7003-4369-9df6-77dbc92bfd9f,message.support,resell,,,82,32,7,"Spaceship, Inc.",19/02/2026 17:09,19/02/2027 17:09
 2c513300-7783-4b05-8b06-77e6d908e31f,believes.support,available,11.99,,64,4,8,name.com,,
 2c8645af-d8ce-49f1-bbe8-3050d9b2bc03,sandals.support,available,11.99,,66,12,7,name.com,,
 2c9c78cb-265e-4e0e-98d9-e317b39759f8,alcohols.support,available,11.99,,50,4,8,name.com,,
