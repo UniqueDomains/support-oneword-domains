@@ -647,6 +647,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 37fec7d3-47e3-45b7-9ec6-8498d05939c3,FabFour.support,available,11.99,,82,3,8,name.com,,
 3844067c-47ab-4e84-b4d9-aa95cb02cab3,OpiumWar.support,available,37.98,,52,1,9,namecheap,,
 38530f89-2b5a-40a6-9ce6-84b4e95f68ef,letslip.support,available,11.99,,76,1,8,name.com,,
+3856eafb-2b89-4e6c-b88b-30a8b2d884ed,drivethru.support,available,11.99,,76,10,10,name.com,,
 3862be35-524b-428c-b80a-d650bc90d0c2,getlate.support,available,11.99,,72,1,8,name.com,,
 3887cf89-05b9-456b-84cc-e37a44ea2fa9,genericnames.support,available,11.99,,42,2,13,name.com,,
 38bb2b80-f98a-49cb-8175-feba8ebcc785,advertisements.support,available,11.99,,54,7,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57dd36d4-fb82-440e-9265-2d9b1a9456d2,makethegrade.support,available,11.99,,70,3,14,name.com,,
 5807c49e-1200-440d-b90e-9241a9ab4e2f,chickpeas.support,available,11.99,,62,3,9,name.com,,
 582451f4-60b4-4d46-b072-f5a921a8bbc2,leavenocrumbs.support,available,11.99,,70,1,15,name.com,,
-5844fc64-bd05-4fa1-af1d-47f789288d70,motions.support,available,11.99,,62,12,7,name.com,,
