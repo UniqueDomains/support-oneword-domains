@@ -1,10 +1,10 @@
-# Available .SUPPORT One-Word Domains (10,950)
+# Available .SUPPORT One-Word Domains (10,951)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C950%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C951%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .support one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,950 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,951 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,950 domains · **Median ask:** $17.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,951 domains · **Median ask:** $17.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/support`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Cats.support         | available | $37.98    | —             | 59             | 33     | 4      | namecheap        |
-| info.support         | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC      |
-| partners.support     | premium   | $500      | —             | 61             | 32     | 8      | name.com         |
-| spaces.support       | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
-| payments.support     | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC     |
-| doctors.support      | premium   | $123.75   | —             | 56             | 26     | 7      | name.com         |
-| Elias.support        | available | $37.98    | —             | 72             | 28     | 5      | namecheap        |
-| message.support      | resell    | —         | —             | 82             | 32     | 7      | Spaceship, Inc.  |
-| toys.support         | premium   | $500      | —             | 60             | 24     | 4      | name.com         |
-| backyard.support     | available | $11.99    | —             | 80             | 27     | 9      | name.com         |
-| solutions.support    | resell    | —         | —             | 56             | 31     | 9      | GoDaddy.com, LLC |
-| apartments.support   | premium   | $500      | —             | 60             | 21     | 10     | name.com         |
-| gods.support         | available | $11.99    | —             | 72             | 27     | 4      | name.com         |
-| letter.support       | resell    | —         | —             | 76             | 21     | 6      | Spaceship, Inc.  |
-| pictures.support     | premium   | $500      | —             | 82             | 17     | 8      | name.com         |
-| pops.support         | available | $11.99    | —             | 74             | 24     | 4      | name.com         |
-| weddings.support     | resell    | —         | —             | 64             | 18     | 8      | GoDaddy.com, LLC |
-| accountants.support  | premium   | $500      | —             | 50             | 16     | 11     | name.com         |
-| chem.support         | available | $11.99    | —             | 74             | 24     | 4      | name.com         |
-| reservations.support | resell    | —         | —             | 50             | 17     | 12     | NameCheap, Inc.  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Cats.support        | available | $37.98    | —             | 59             | 33     | 4      | namecheap         |
+| info.support        | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC       |
+| partners.support    | premium   | $500      | —             | 61             | 32     | 8      | name.com          |
+| spaces.support      | available | $11.99    | —             | 54             | 30     | 6      | name.com          |
+| payments.support    | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC      |
+| doctors.support     | premium   | $123.75   | —             | 56             | 26     | 7      | name.com          |
+| Elias.support       | available | $37.98    | —             | 72             | 28     | 5      | namecheap         |
+| message.support     | resell    | —         | —             | 82             | 32     | 7      | Spaceship, Inc.   |
+| toys.support        | premium   | $500      | —             | 60             | 24     | 4      | name.com          |
+| backyard.support    | available | $11.99    | —             | 80             | 27     | 9      | name.com          |
+| solutions.support   | resell    | —         | —             | 56             | 31     | 9      | GoDaddy.com, LLC  |
+| apartments.support  | premium   | $500      | —             | 60             | 21     | 10     | name.com          |
+| gods.support        | available | $11.99    | —             | 72             | 27     | 4      | name.com          |
+| letter.support      | resell    | —         | —             | 76             | 21     | 6      | Spaceship, Inc.   |
+| pictures.support    | premium   | $500      | —             | 82             | 17     | 8      | name.com          |
+| pops.support        | available | $11.99    | —             | 74             | 24     | 4      | name.com          |
+| parenting.support   | resell    | —         | —             | 80             | 19     | 9      | Sav.com, LLC - 49 |
+| accountants.support | premium   | $500      | —             | 50             | 16     | 11     | name.com          |
+| chem.support        | available | $11.99    | —             | 74             | 24     | 4      | name.com          |
+| weddings.support    | resell    | —         | —             | 64             | 18     | 8      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,950 live domains                        |
+| 1,000-row public sample | 10,951 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

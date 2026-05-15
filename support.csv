@@ -177,6 +177,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0f23a1db-33b8-44ca-803d-e9679720c63a,deeper.support,available,11.99,,56,19,6,name.com,,
 0f2787e7-463c-415f-8879-1bce12bb3ae8,electricalfield.support,available,11.99,,62,1,16,name.com,,
 0f2c8596-0d61-4b3b-832b-ca5ef20d4af6,fitlikeaglove.support,available,11.99,,76,1,16,name.com,,
+0f4fce20-224e-4b3c-b6e8-001cee2b73ed,parenting.support,resell,,,80,19,9,"Sav.com, LLC - 49",16/10/2025 15:15,16/10/2026 15:15
 0f5a0758-bff0-4b80-bb60-4b4034387c12,potatochips.support,available,11.99,,54,5,12,name.com,,
 0f693a8c-2ac0-439c-b74d-c17db9400025,coats.support,available,11.99,,68,12,5,name.com,,
 0f6e2748-51a4-4efc-a504-c1a23c1e4aaa,chiefofpolice.support,available,11.99,,42,0,15,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57b488ad-423f-487b-8e2a-3cd109be049d,lunchmoney.support,available,11.99,,78,7,11,name.com,,
 57dd36d4-fb82-440e-9265-2d9b1a9456d2,makethegrade.support,available,11.99,,70,3,14,name.com,,
 5807c49e-1200-440d-b90e-9241a9ab4e2f,chickpeas.support,available,11.99,,62,3,9,name.com,,
-582451f4-60b4-4d46-b072-f5a921a8bbc2,leavenocrumbs.support,available,11.99,,70,1,15,name.com,,
