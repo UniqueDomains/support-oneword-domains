@@ -1,10 +1,10 @@
-# Available .SUPPORT One-Word Domains (10,953)
+# Available .SUPPORT One-Word Domains (10,954)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C953%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C954%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .support one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,953 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,954 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,953 domains · **Median ask:** $17.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,954 domains · **Median ask:** $18.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/support`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/support`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SUPPORT one-word doma
 
 ### Files
 
-- `support.csv` — public CSV extract (1,000 rows)
-- `support.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `support.csv`, public CSV extract (1,000 rows)
+- `support.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Cats.support        | available | $37.98    | —             | 59             | 33     | 4      | namecheap         |
-| info.support        | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC       |
-| partners.support    | premium   | $500      | —             | 61             | 31     | 8      | name.com          |
-| spaces.support      | available | $11.99    | —             | 54             | 30     | 6      | name.com          |
-| payments.support    | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC      |
-| doctors.support     | premium   | $123.75   | —             | 56             | 26     | 7      | name.com          |
-| Elias.support       | available | $37.98    | —             | 72             | 28     | 5      | namecheap         |
-| message.support     | resell    | —         | —             | 82             | 32     | 7      | Spaceship, Inc.   |
-| toys.support        | premium   | $500      | —             | 60             | 24     | 4      | name.com          |
-| backyard.support    | available | $11.99    | —             | 80             | 27     | 9      | name.com          |
-| solutions.support   | resell    | —         | —             | 56             | 31     | 9      | GoDaddy.com, LLC  |
-| apartments.support  | premium   | $500      | —             | 60             | 21     | 10     | name.com          |
-| gods.support        | available | $11.99    | —             | 72             | 27     | 4      | name.com          |
-| letter.support      | resell    | —         | —             | 76             | 21     | 6      | Spaceship, Inc.   |
-| pictures.support    | premium   | $500      | —             | 82             | 17     | 8      | name.com          |
-| pops.support        | available | $11.99    | —             | 74             | 24     | 4      | name.com          |
-| parenting.support   | resell    | —         | —             | 80             | 19     | 9      | Sav.com, LLC - 49 |
-| accountants.support | premium   | $500      | —             | 50             | 16     | 11     | name.com          |
-| chem.support        | available | $11.99    | —             | 74             | 24     | 4      | name.com          |
-| weddings.support    | resell    | —         | —             | 64             | 18     | 8      | GoDaddy.com, LLC  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| wiz.support  | available | $11.99    | —             | high           | low    | 3      | name.com                   |
+| the.support  | resell    | —         | —             | high           | medium | 3      | 1API GmbH                  |
+| awe.support  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                   |
+| babe.support | available | $11.99    | —             | high           | low    | 4      | name.com                   |
+| give.support | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| day.support  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| belt.support | available | $11.99    | —             | high           | low    | 4      | name.com                   |
+| move.support | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
+| ego.support  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
+| clam.support | available | $11.99    | —             | high           | low    | 4      | name.com                   |
+| park.support | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
+| era.support  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                   |
+| curl.support | available | $11.99    | —             | medium         | low    | 4      | name.com                   |
+| shoe.support | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| fee.support  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| deal.support | available | $11.99    | —             | medium         | low    | 4      | name.com                   |
+| tiny.support | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
+| gas.support  | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap                  |
+| east.support | available | $11.99    | $35.99        | high           | low    | 4      | name.com                   |
+| warm.support | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,953 live domains                        |
+| 1,000-row public sample | 10,954 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .support domains, so the main question is not category fit but word fit. Names such as diner.support, appear.support, attendant.support, and candidate.support show the range: some are direct and service-oriented, while others feel abstract or harder to place. With a median ask of 17.68, price can be accessible, but the stronger filter is relevance. When comparing these domains, favor words that read naturally with .support, are easy to say, and create an immediate expectation of help, service, or assistance. Be more cautious with awkward pairings, emotionally negative terms, or words that may invite trademark review.
+This selection covers 10,954 available one-word .support domain names, from everyday nouns to short brandable terms. Asking prices sit near a $19 median, positioning .support as one of the more affordable extensions for founders shortlisting a brand name and investors scanning for low-cost, high-volume opportunities.
 
-- Favor words that pair naturally with .support
-- Median ask is 17.68 across 10,937 domains
-- Clear, literal terms usually reduce buyer hesitation
-- Check trademark risk before valuing stronger terms
+- 10,954 available one-word .support domains, updated daily
+- Median asking price near $19 — among the most affordable TLDs
+- Everyday words like backyard, pictures, and headout in this set
+- Brandable, ownable now — ideal for quick, budget-friendly picks
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
