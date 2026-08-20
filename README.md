@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .support one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,681 domains · **Median ask:** $12.99 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/support`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| period.support | available | $11.99    | —             | high           | low    | 6      | name.com                   |
-| attack.support | available | $11.99    | —             | high           | low    | 6      | name.com                   |
-| cxl.support    | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
-| the.support    | resell    | —         | —             | high           | medium | 3      | 1API GmbH                  |
-| awe.support    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                   |
-| lii.support    | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
-| give.support   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| day.support    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| wiz.support    | available | $11.99    | —             | high           | low    | 3      | name.com                   |
-| move.support   | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
-| ego.support    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
-| xci.support    | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
-| park.support   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
-| era.support    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                   |
-| alky.support   | available | $4.98     | $37.98        | low            | low    | 4      | namecheap                  |
-| shoe.support   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| fee.support    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| avid.support   | available | $4.98     | $37.98        | medium         | low    | 4      | namecheap                  |
-| tiny.support   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
-| gas.support    | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap                  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| cxl.support  | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
+| the.support  | resell    | —         | —             | high           | medium | 3      | 1API GmbH                  |
+| awe.support  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                   |
+| lii.support  | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
+| give.support | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| day.support  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| wiz.support  | available | $11.99    | —             | high           | low    | 3      | name.com                   |
+| move.support | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
+| ego.support  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
+| xci.support  | available | $4.98     | $37.98        | low            | low    | 3      | namecheap                  |
+| park.support | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                |
+| era.support  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                   |
+| alky.support | available | $4.98     | $37.98        | low            | low    | 4      | namecheap                  |
+| shoe.support | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| fee.support  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| avid.support | available | $4.98     | $37.98        | medium         | low    | 4      | namecheap                  |
+| tiny.support | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
+| gas.support  | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap                  |
+| babe.support | available | $11.99    | —             | high           | low    | 4      | name.com                   |
+| warm.support | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPORT One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
